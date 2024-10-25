@@ -1,8 +1,6 @@
-# Pythagorean-triangle-checker
-This code checks whether a triangle with sides a, b, and c forms a right triangle by applying the Pythagorean theorem.
-
 # Pythagorean Triangle Checker
 
+This code checks whether a triangle with sides a, b, and c forms a right triangle by applying the Pythagorean theorem.
 This Python script checks whether a triangle is a right-angled triangle by applying the Pythagorean theorem. It compares the squares of the sides to verify if the triangle is a right triangle.
 
 ## Features
